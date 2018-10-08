@@ -1,0 +1,21 @@
+﻿  main.cpp
+d:\学习\大二下\database\minisql\test_record\test_record\api.h(26): warning C4018: “>”: 有符号/无符号不匹配
+d:\学习\大二下\database\minisql\test_record\test_record\api.h(59): warning C4018: “<”: 有符号/无符号不匹配
+d:\学习\大二下\database\minisql\test_record\test_record\api.h(63): warning C4018: “<”: 有符号/无符号不匹配
+d:\学习\大二下\database\minisql\test_record\test_record\api.h(87): warning C4018: “<”: 有符号/无符号不匹配
+d:\学习\大二下\database\minisql\test_record\test_record\api.h(89): warning C4018: “<”: 有符号/无符号不匹配
+d:\学习\大二下\database\minisql\test_record\test_record\api.h(99): warning C4018: “<”: 有符号/无符号不匹配
+d:\学习\大二下\database\minisql\test_record\test_record\api.h(101): warning C4018: “<”: 有符号/无符号不匹配
+d:\学习\大二下\database\minisql\test_record\test_record\api.h(113): warning C4018: “<”: 有符号/无符号不匹配
+d:\学习\大二下\database\minisql\test_record\test_record\api.h(115): warning C4018: “<”: 有符号/无符号不匹配
+d:\学习\大二下\database\minisql\test_record\test_record\api.h(126): warning C4018: “<”: 有符号/无符号不匹配
+d:\学习\大二下\database\minisql\test_record\test_record\api.h(128): warning C4018: “<”: 有符号/无符号不匹配
+d:\学习\大二下\database\minisql\test_record\test_record\api.h(130): warning C4018: “<”: 有符号/无符号不匹配
+d:\学习\大二下\database\minisql\test_record\test_record\api.h(134): warning C4018: “<”: 有符号/无符号不匹配
+d:\学习\大二下\database\minisql\test_record\test_record\api.h(148): warning C4018: “<”: 有符号/无符号不匹配
+d:\学习\大二下\database\minisql\test_record\test_record\api.h(150): warning C4018: “<”: 有符号/无符号不匹配
+d:\学习\大二下\database\minisql\test_record\test_record\api.h(232): warning C4018: “<”: 有符号/无符号不匹配
+d:\学习\大二下\database\minisql\test_record\test_record\api.h(164): warning C4101: “k”: 未引用的局部变量
+d:\学习\大二下\database\minisql\test_record\test_record\api.h(164): warning C4101: “j”: 未引用的局部变量
+d:\学习\大二下\database\minisql\test_record\test_record\api.h(164): warning C4101: “i”: 未引用的局部变量
+  test_record.vcxproj -> D:\学习\大二下\database\minisql\test_record\Debug\test_record.exe
